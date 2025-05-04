@@ -1,10 +1,15 @@
 Penn State University
+
 College of IST
+
 DS 220-02/555v– Project #2 on Data Analysis with Python – Individual
 (Team)
+
 Compiled by Dr. Mathias Fonkam (Instructor)
+
 Project #2 – Data Analysis with Python – An Individual or Team (max 6) Project which you
 should each host on your individual Github Account
+
 The broad goal for your Project #2 is to demonstrate some understanding and appreciation for
 data analysis using Python and its growing suite of Data Science libraries with a special focus on
 the Pandas library. The Pandas library builds on the NumPy and MatPlotlib libraries. In particular
